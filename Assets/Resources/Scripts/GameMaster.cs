@@ -49,6 +49,7 @@ public class GameMaster : MonoBehaviour {
 	
 	// Update is called once per frame
 	void Update () {
+		if (Input.GetKeyDown("escape")) Application.Quit();
 		if (instance.gameState == GameState.Loading) {
 			updateLoading ();
 		} else if (instance.gameState == GameState.Play) {
