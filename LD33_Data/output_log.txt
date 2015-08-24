@@ -16,7 +16,30 @@ Platform assembly: C:\Users\Rscar\Dropbox\LD33\LD33\LD33_Data\Managed\UnityEngin
 Loading C:\Users\Rscar\Dropbox\LD33\LD33\LD33_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
 Platform assembly: C:\Users\Rscar\Dropbox\LD33\LD33\LD33_Data\Managed\UnityEngine.UI.dll (this message is harmless)
 Loading C:\Users\Rscar\Dropbox\LD33\LD33\LD33_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-- Completed reload, in  0.058 seconds
+- Completed reload, in  0.086 seconds
 desktop: 1920x1080 60Hz; virtual: 3200x1080 at 0,0
 <RI> Initializing input.
 <RI> Input initialized.
+<RI> Initialized touch support.
+Platform assembly: C:\Users\Rscar\Dropbox\LD33\LD33\LD33_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\Users\Rscar\Dropbox\LD33\LD33\LD33_Data\Managed\System.dll (this message is harmless)
+Restart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.700544 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 9810.
+Total: 6.074988 ms (FindLiveObjects: 0.314706 ms CreateObjectMapping: 0.360575 ms MarkObjects: 5.340842 ms  DeleteObjects: 0.058354 ms)
+
+Restart
+ 
+(Filename: C:/buildslave/unity/build/artifacts/generated/common/runtime/UnityEngineDebug.gen.cpp Line: 56)
+
+Unloading 3 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 3.507388 ms
+
+Unloading 4 unused Assets to reduce memory usage. Loaded Objects now: 9810.
+Total: 5.619109 ms (FindLiveObjects: 0.307062 ms CreateObjectMapping: 0.244885 ms MarkObjects: 5.000398 ms  DeleteObjects: 0.056570 ms)
+
